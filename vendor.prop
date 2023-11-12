@@ -26,7 +26,7 @@ persist.vendor.audio.speaker.stereo=false
 persist.vendor.audio.spv4.enable=true
 persist.vendor.audio.vbat.enabled=false
 persist.vendor.audio.voicecall.speaker.stereo=false
-persist.vendor.audio_fx.current=waves
+#persist.vendor.audio_fx.current=waves
 persist.vendor.audio_fx.waves.maxxsense=true
 persist.vendor.audio_fx.waves.proc_twks=true
 persist.vendor.audio_fx.waves.processing=true
@@ -160,7 +160,7 @@ ro.crypto.dm_default_key.options_format.version=2
 ro.crypto.volume.metadata.method=dm-default-key
 
 # Dalvik
-dalvik.vm.dex2oat-threads=6
+#dalvik.vm.dex2oat-threads=6
 dalvik.vm.dex2oat64.enabled=true
 dalvik.vm.heapgrowthlimit=256m
 dalvik.vm.heapmaxfree=32m
